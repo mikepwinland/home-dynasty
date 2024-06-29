@@ -236,7 +236,7 @@
     <p>At the end of the season 6 teams will make the playoffs. The first round of playoffs will commence in week 15. The 6 teams that finish with the best records will receive a playoff berth. The top 2 teams will receive a bye week in the first round of the playoffs. Each playoff matchup will only last one week and the winner will advance. Week 18 will not be used.</p>
     
     <h3 bind:this={fourTwo}>4.2 Seeding Tiebreakers</h3>
-    <p>If two teams finish with the same record, total points scored will act as the tiebreaker. In the extremely rare case of PF being identical, head-to-head record between the temas involved will be used as a secondary tiebreaker.</p>
+    <p>If two teams finish with the same record, total points scored will act as the tiebreaker. In the extremely rare case of PF being identical, head-to-head record between the teams involved will be used as a secondary tiebreaker.</p>
     <h2 class="sectionHeading" bind:this={five}>Section 5 Tanking Policy</h2>
     
     <h3 bind:this={fiveOne}>5.1 League Tanking Policy</h3>
@@ -262,7 +262,6 @@
 <p>The winner of the consolation bracket (non-playoff teams) will receive free entry into the league for the following season.</p>
 
 <p>In addition, money will be placed each year into a “most wins” pool and $50 places into a “most total points” pool each year. These pools will empty every 5 years and/or upon folding of the league.</p>
-    <ul>
 
     <p>In the event that a manager chooses to decline the championship ring, its value will be passed down to the runner-up.</p>
     
