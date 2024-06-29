@@ -96,7 +96,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION</h1>
+    <h1 class="noUnderscore">HOME DYNASTY CONSTITUTION</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
@@ -217,7 +217,7 @@
     <h2 class="sectionHeading" bind:this={two}>Section 2 Drafting</h2>
     
     <h3 bind:this={twoOne}>2.1 Draft Order</h3>
-    <p>The draft order each year will be a linear draft. The first six picks in the draft order will go to the non-playoff teams, and will be determined by reverse order of the previous year’s regular season standings. The final six slots will will go to the six playoff teams based on playoff performance; the teams eliminated in the first round will pick 7th and 8th, the teams eliminated in the second round will pick 9th and 10th, the runner-up will pick 11th, and the champion will 12th.</p>
+    <p>The draft each year will be a linear rookie draft. The first six picks in the draft order will go to the non-playoff teams, and will be determined by reverse order of the previous year’s regular season standings. The final six slots will will go to the six playoff teams based on playoff performance; the teams eliminated in the first round will pick 7th and 8th, the teams eliminated in the second round will pick 9th and 10th, the runner-up will pick 11th, and the champion will 12th.</p>
 
     <h3 bind:this={twoTwo}>2.2 Rookie Drafts</h3>
     <p>Rookie drafts will consist of 4 rounds of drafting, with 24 hours alotted for each pick. There is no need to clear space for incoming rookies prior to the draft, as the Sleeper software allows teams to exceed typical roster size after drafting.</p>
