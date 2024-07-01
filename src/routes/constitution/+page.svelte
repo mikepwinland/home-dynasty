@@ -163,7 +163,7 @@
     
     <p>12 Bench</p>
 
-    <p>2 IR Spots (Player must be labeled as IR, Out, or Covid in the Sleeper App)</p>
+    <p>3 IR Spots (Player must be labeled as IR, Out, or Covid in the Sleeper App)</p>
 
 <p> 4 Taxi Squad Spots (NFL rookies may be added to the taxi squard prior to the start of the NFL season, and may remain on the taxi squad until manually moved)</p>
     
