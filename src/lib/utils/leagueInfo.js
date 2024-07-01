@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-<p>Welcome the the official HOME DYNASTY homepage! Feel free to report any issues or bugs, but I probably don't know how to fix them.</p>
+<p>Welcome to the official HOME DYNASTY homepage! Feel free to report any issues or bugs, but I probably don't know how to fix them.</p>
 <p>DRAFT DATE: FRIDAY, JULY 19, 8:00 PM</p>
 
 `;
